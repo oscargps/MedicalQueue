@@ -1,0 +1,18 @@
+body{
+	background:linear-gradient(90deg, #4dc4c0 0%, #ffffff 100%);
+
+}
+.form-login{
+	width: 200px
+}
+header
+{
+		background: #2c3e50;
+	color: #fff;
+	vertical-align: 50%;
+}
+.turno
+{
+text-align: center;
+font-size: 40pts;
+}
